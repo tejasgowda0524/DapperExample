@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "DapperASPNETcore.Controllers.EmployeeController",
+    "Method": "GetEmployeeList",
+    "RelativePath": "api/tejas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DapperASPNETcore.Controllers.EmployeeController",
+    "Method": "GetEmployeeById",
+    "RelativePath": "api/tejas/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ramtej\\Desktop\\webapi\\dapper\\DapperASPNETcore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5B3EC0-359B-4F38-9C3D-ACDA317D82E7}|..\\Repository\\Repository.csproj|c:\\users\\ramtej\\desktop\\webapi\\dapper\\repository\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34334DA-1D90-4C6B-B87A-712E4FD26DC6}|..\\Business\\Business.csproj|c:\\users\\ramtej\\desktop\\webapi\\dapper\\business\\service\\employeeservicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5B3EC0-359B-4F38-9C3D-ACDA317D82E7}|..\\Repository\\Repository.csproj|c:\\users\\ramtej\\desktop\\webapi\\dapper\\repository\\interface\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5B3EC0-359B-4F38-9C3D-ACDA317D82E7}|..\\Repository\\Repository.csproj|c:\\users\\ramtej\\desktop\\webapi\\dapper\\repository\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5B3EC0-359B-4F38-9C3D-ACDA317D82E7}|..\\Repository\\Repository.csproj|c:\\users\\ramtej\\desktop\\webapi\\dapper\\repository\\context\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5B3EC0-359B-4F38-9C3D-ACDA317D82E7}|..\\Repository\\Repository.csproj|c:\\users\\ramtej\\desktop\\webapi\\dapper\\repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AECCFFF-CF1E-42E5-A574-E5D3DA7A1590}|DapperASPNETcore.csproj|C:\\Users\\Ramtej\\Desktop\\webapi\\dapper\\DapperASPNETcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AECCFFF-CF1E-42E5-A574-E5D3DA7A1590}|DapperASPNETcore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AECCFFF-CF1E-42E5-A574-E5D3DA7A1590}|DapperASPNETcore.csproj|C:\\Users\\Ramtej\\Desktop\\webapi\\dapper\\DapperASPNETcore\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AECCFFF-CF1E-42E5-A574-E5D3DA7A1590}|DapperASPNETcore.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AECCFFF-CF1E-42E5-A574-E5D3DA7A1590}|DapperASPNETcore.csproj|C:\\Users\\Ramtej\\Desktop\\webapi\\dapper\\DapperASPNETcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7AECCFFF-CF1E-42E5-A574-E5D3DA7A1590}|DapperASPNETcore.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34334DA-1D90-4C6B-B87A-712E4FD26DC6}|..\\Business\\Business.csproj|c:\\users\\ramtej\\desktop\\webapi\\dapper\\business\\interface\\iemployeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AECCFFF-CF1E-42E5-A574-E5D3DA7A1590}|DapperASPNETcore.csproj|C:\\Users\\Ramtej\\Desktop\\webapi\\dapper\\DapperASPNETcore\\dapperaspnetcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7AECCFFF-CF1E-42E5-A574-E5D3DA7A1590}|DapperASPNETcore.csproj|solutionrelative:dapperaspnetcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34334DA-1D90-4C6B-B87A-712E4FD26DC6}|..\\Business\\Business.csproj|c:\\users\\ramtej\\desktop\\webapi\\dapper\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34334DA-1D90-4C6B-B87A-712E4FD26DC6}|..\\Business\\Business.csproj|c:\\users\\ramtej\\desktop\\webapi\\dapper\\business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5B3EC0-359B-4F38-9C3D-ACDA317D82E7}|..\\Repository\\Repository.csproj|c:\\users\\ramtej\\desktop\\webapi\\dapper\\repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\webapi\\dapper\\DapperASPNETcore\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\webapi\\dapper\\DapperASPNETcore\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T06:29:48.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeServiceBL.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\webapi\\dapper\\Business\\Service\\EmployeeServiceBL.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Service\\EmployeeServiceBL.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\webapi\\dapper\\Business\\Service\\EmployeeServiceBL.cs",
+              "RelativeToolTip": "..\\Business\\Service\\EmployeeServiceBL.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T06:09:47.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEmployeeBL.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\webapi\\dapper\\Business\\Interface\\IEmployeeBL.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Interface\\IEmployeeBL.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\webapi\\dapper\\Business\\Interface\\IEmployeeBL.cs",
+              "RelativeToolTip": "..\\Business\\Interface\\IEmployeeBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T06:09:14.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Business.csproj",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\webapi\\dapper\\Business\\Business.csproj",
+              "RelativeDocumentMoniker": "..\\Business\\Business.csproj",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\webapi\\dapper\\Business\\Business.csproj",
+              "RelativeToolTip": "..\\Business\\Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-15T06:07:50.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DapperASPNETcore.csproj",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\webapi\\dapper\\DapperASPNETcore\\DapperASPNETcore.csproj",
+              "RelativeDocumentMoniker": "DapperASPNETcore.csproj",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\webapi\\dapper\\DapperASPNETcore\\DapperASPNETcore.csproj",
+              "RelativeToolTip": "DapperASPNETcore.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-15T06:04:50.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\webapi\\dapper\\DapperASPNETcore\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\webapi\\dapper\\DapperASPNETcore\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T06:02:12.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\webapi\\dapper\\Repository\\Context\\DapperContext.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\Context\\DapperContext.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\webapi\\dapper\\Repository\\Context\\DapperContext.cs",
+              "RelativeToolTip": "..\\Repository\\Context\\DapperContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T06:01:05.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\webapi\\dapper\\Repository\\Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\Service\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\webapi\\dapper\\Repository\\Service\\EmployeeService.cs",
+              "RelativeToolTip": "..\\Repository\\Service\\EmployeeService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T05:58:56.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\webapi\\dapper\\Repository\\Interface\\IEmployee.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\Interface\\IEmployee.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\webapi\\dapper\\Repository\\Interface\\IEmployee.cs",
+              "RelativeToolTip": "..\\Repository\\Interface\\IEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T05:57:24.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\webapi\\dapper\\Repository\\Entity\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\Entity\\Employee.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\webapi\\dapper\\Repository\\Entity\\Employee.cs",
+              "RelativeToolTip": "..\\Repository\\Entity\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T05:56:09.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\webapi\\dapper\\DapperASPNETcore\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\webapi\\dapper\\DapperASPNETcore\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-15T05:48:53.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository.csproj",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\webapi\\dapper\\Repository\\Repository.csproj",
+              "RelativeDocumentMoniker": "..\\Repository\\Repository.csproj",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\webapi\\dapper\\Repository\\Repository.csproj",
+              "RelativeToolTip": "..\\Repository\\Repository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-15T05:35:33.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\webapi\\dapper\\Business\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Class1.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\webapi\\dapper\\Business\\Class1.cs",
+              "RelativeToolTip": "..\\Business\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T05:16:40.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\webapi\\dapper\\Repository\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\Class1.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\webapi\\dapper\\Repository\\Class1.cs",
+              "RelativeToolTip": "..\\Repository\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T05:15:57.974Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
